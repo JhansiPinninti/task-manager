@@ -27,5 +27,6 @@ A simple, powerful, and beginner-friendly command-line task manager written in P
    cd task-manager
   
 2. Run the app:
+ ```bash
    python main.py
    
