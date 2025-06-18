@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Buy Medicines",
+        "due_date": "2025-06-19",
+        "priority": "High",
+        "completed": true
+    },
+    {
+        "title": "Buy a car",
+        "due_date": "2025-08-03",
+        "priority": "High",
+        "completed": false
+    }
+]
